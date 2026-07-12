@@ -163,11 +163,6 @@ Through this project, I strengthened my understanding of:
 Refaya Aftarin
 
 📧 Email: refayaaftarin2018@gmail.com
-
-💼 LinkedIn: *(Your LinkedIn Profile)*
-
-💻 GitHub: *(Your GitHub Profile)*
-
 ---
 
 ⭐ If you found this project interesting, feel free to connect with me on LinkedIn or explore my other projects on GitHub.
