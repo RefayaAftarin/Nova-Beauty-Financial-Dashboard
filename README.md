@@ -111,7 +111,7 @@ The dashboard includes several DAX measures, including:
 
 📷 Dashboard Preview
 
-> *(Insert dashboard screenshot here)*
+> ![Dashboard](Dashboard.png)
 
 ---
 
